@@ -13,4 +13,4 @@ U: --
 
 Windows will have some problems with this file, but _why?_
 
-Also look at this [https://github.com/azrafe7/cancel-the-cancel/blob/master/assets/TheGoesToOperator-->.md](https://github.com/azrafe7/cancel-the-cancel/blob/master/assets/TheGoesToOperator--%3E.md).
+Also look at [this](https://github.com/azrafe7/cancel-the-cancel/blob/master/assets/TheGoesToOperator--%3E.md).
