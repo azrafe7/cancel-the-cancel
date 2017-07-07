@@ -1,0 +1,160 @@
+
+SCALE
+
+Una scala cromatica è una scala musicale composta dai dodici semitoni del 
+sistema temperato. 
+Il semitono è l'intervallo minimo tra due note.
+(from https://it.wikipedia.org/wiki/Scala_cromatica)
+
+| do  | do# | re  | re# | mi  | fa  | fa# | sol | sol#| la  | la# | si |
+
+
+L'intervallo tra do e do# è un semitono.
+L'intervallo tra mi e fa è un semitono.
+
+L'intervallo tra la e si è un tono.
+L'intervallo tra fa# e sol# è un tono.
+
+
+La scala maggiore (di do) è:
+
+| do  | re  | mi  | fa  | sol | la  | si  |
+
+La scala maggiore (in generale) è composta da note con questi intervalli 
+(dove T = tono, s = semitono):
+
+T, T, s, T, T, T, s
+
+Infatti:
+
+| do  | re  | mi  | fa  | sol | la  | si  | (do)
+
+      T     T     s     T     T     T     s
+
+Convenzionalmente si usano numeri romani per indicare le note di una scala 
+(in maiuscolo per la scala maggiore, e minuscolo per quella minore).
+
+   I    II    III   IV     V    VI    VII
+  \______ ______/
+         V
+intervallo di terza
+     maggiore    
+ (spazia due toni)
+
+
+La scala minore invece è composta da note con questi intervalli:
+
+T, s, T, T, s, T, T
+
+Quindi volendo "trovare" la scala minore di do avremmo:
+
+| do  | re  | re# | fa  | sol | sol#| la# | (do)
+
+      T     s     T     T     s     T     T
+
+   i    ii    iii   iv     v    vi    vii
+  \______ ______/
+         V
+intervallo di terza
+      minore
+(spazia un tono + un semitono)
+  
+  
+NOTA:
+Contando in semitoni a partire dalla prima nota della scala abbiamo:
+ 
+ I  II  III  IV  V   VI  VII
+   T   T   s   T   T   T     s
+ 0 - 2 - 4 - 5 - 7 - 9 - 11 - 12      maggiore
+
+ 0 - 2 - 3 - 5 - 7 - 8 - 10 - 12      minore
+   T   s   T   T   s   T     T
+ i  ii  iii  iv  v   vi  vii
+
+  
+Mettendo a confronto le due scale
+
+| do  | re  | mi  | fa  | sol | la  | si  | (do)       maggiore
+   I    II    III   IV     V    VI    VII
+
+| do  | re  | re# | fa  | sol | sol#| la# | (do)       minore
+   i    ii    iii   iv     v    vi    vii
+
+ci accorgiamo facilmente che alcune note rimangono invariate, 
+mentre altre no.
+
+In particolare la III, VI e VII variano, mentre le altre no!
+
+NOTA: 
+Questo vuole anche dire che la notazione II è equivalente a ii. Così 
+come IV == iv e V == v.
+E quindi che l'intervallo, per esempio, tra I e V è sempre lo stesso 
+(cioè 7 semitoni)!
+
+
+
+ACCORDI
+
+Un accordo è composto da un insieme di note che vengono suonate 
+simultaneamente.
+Normalmente è composto da una triade, un insieme di tre note.
+Ma esistono per esempio anche i bicordi - accordi di due note (che poi sono i 
+powerchords) -, o di più note che vengono aggiunte a quelle base per "colorare"
+l'accordo.
+
+Un'accordo si costruisce a partire dalla nota che sarà la sua base, aggiungendo
+un'intervallo di terza e uno di quinta.
+Quindi avrà la forma I, III, V.
+
+
+Usando le scale di do viste finora, per costruire l'accordo di do maggiore 
+abbiamo bisogno
+
+ 1. del do ovviamente
+ 2. della sua terza maggiore che è un mi
+ 3. della sua quinta maggiore che è un sol
+ 
+Quindi l'accordo di do maggiore è do,mi,sol.
+
+Per il do minore si fa lo stesso, ma utilizzando la scala minore.
+Quindi abbiamo bisogno di I, iii, V:
+ 
+| do  | re  | re# | fa  | sol | sol#| si  | (do)       minore
+   i    ii    iii   iv     v    vi    vii
+
+ 1. do
+ 2. re#
+ 3. sol
+   
+   
+Proviamo con un altro accordo che sappiamo già come fare sul nostro strumento.
+Proviamo con il la.
+
+Scale:
+
+      T     T     s     T     T     T     s
+      
+| la  | si  | do# | re  | mi  | fa# | sol#| (la)     maggiore
+
+  I     II    III   IV     V    VI    VII
+
+      T     s     T     T     s     T     T
+      
+|     |     | do  |     |     | fa  | sol |          minore
+
+  I     II    iii   IV     V    vi    vii
+
+  
+Quindi l'accordo di la maggiore è la, do#, mi.
+
+Mentre l'accordo di la minore è la, do, mi. 
+
+Torna!
+
+
+NOTA:
+Tutto ciò ci conduce al fatto che, se conosciamo già un accordo, è facile 
+ricavarne l'altra "versione": basta cambiare una singola nota 
+(che di solito vuol dire spostare un singolo dito in avanti o indietro 
+sullo strumento).
+
