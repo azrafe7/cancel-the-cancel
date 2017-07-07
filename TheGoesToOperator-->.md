@@ -1,4 +1,4 @@
-### the GoesTo operator
+### 2. The GoesTo operator
 
 ```cpp
 #include <stdio.h>
